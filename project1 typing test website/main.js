@@ -2,7 +2,9 @@
 const setOfWords = [
     "It is good to shop wisely.",
     "An apple a day keeps the doctor away.",
-    "Most people fry their eggs with tomatoes."
+    "Most people fry their eggs with tomatoes.",
+    "CPU architecture and eight processors, and was designed around a CPU developed by electronics company Hitachi. Its games are in CD-ROM format. The system was initially successful in Japan, but failed to sell large numbers in the United States after a surprise launch four months before its scheduled release, and an aggressive price war against Sony's PlayStation. Following the release of the Nintendo 64 in late 1996, the Saturn rapidly lost market share in the U.S.",
+    "The Sega Saturn is a 32-bit home video game console developed by Sega. Released in 1994 in Japan, and 1995 in North America and Europe, the Saturn is the successor to the Sega Genesis, and Sega's fourth game console."
 ]
 
 const msg = document.getElementById('msg');
